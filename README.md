@@ -6,7 +6,7 @@ The Apple Picking display is a generative art piece that animates a falling appl
 # What You'll Need
 
 - ESP32 TTGO T-Display
-- Battery
+- 1000 mAh Lithium Battery
 - Envelope
 - String
 - Tape
