@@ -20,3 +20,5 @@ The Apple Picking display is a generative art piece that animates a falling appl
 4. Connect the ESP32 to the battery and tape the battery so that it is secured to the envelope
 5. Tape the envelope closed and lace the string through the hole
 6. Hang
+
+[insert pictures of set up at each step]
