@@ -13,7 +13,7 @@ The Apple Picking display is a generative art piece that animates a falling appl
 
 # Installation
 
-1. Upload the [insert code name] example code onto the ESP32
+1. Upload the ApplePicking.ino example code onto the ESP32
 2. Prepare the envelope with a hole cut out for the screen, a hole cut out for the string, and design on the front face
 [insert image of envelope]
 3. Tape the ESP32 to the envelope so that the screen fits in the hole
