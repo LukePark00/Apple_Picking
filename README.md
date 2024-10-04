@@ -1,4 +1,4 @@
-![IMG_9784](https://github.com/user-attachments/assets/0a586540-1657-4986-9b21-ce94fb06f895)# Apple Picking
+# Apple Picking
 # About
 Blog Post: https://medium.com/@mr.lukepark/apple-picking-a2fc43134a61
 
